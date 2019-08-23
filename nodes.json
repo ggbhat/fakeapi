@@ -1,0 +1,110 @@
+{
+"nodes": [
+{
+"name": "SYS",
+"remoteObjectType": "SCHEMA",
+"qualifiedName": "/SYS",
+"nativeQualifiedName": "SYS",
+"parentQualifiedName": "/",
+"isContainer": true,
+"publicationStatus": {
+"indexed": false,
+"published": false
+},
+"hasLineage": false
+},
+{
+"name": "TESTUSER_HANA_NOTEBOOK_CONNECTOR",
+"remoteObjectType": "SCHEMA",
+"qualifiedName": "/TESTUSER_HANA_NOTEBOOK_CONNECTOR",
+"nativeQualifiedName": "TESTUSER_HANA_NOTEBOOK_CONNECTOR",
+"parentQualifiedName": "/",
+"isContainer": true,
+"publicationStatus": {
+"indexed": true,
+"published": true
+},
+"hasLineage": false
+},
+{
+"name": "_SYS_AFL",
+"remoteObjectType": "SCHEMA",
+"qualifiedName": "/_SYS_AFL",
+"nativeQualifiedName": "_SYS_AFL",
+"parentQualifiedName": "/",
+"isContainer": true,
+"publicationStatus": {
+"indexed": true,
+"published": true
+},
+"hasLineage": false
+},
+{
+"name": "_SYS_BI",
+"remoteObjectType": "SCHEMA",
+"qualifiedName": "/_SYS_BI",
+"nativeQualifiedName": "_SYS_BI",
+"parentQualifiedName": "/",
+"isContainer": true,
+"publicationStatus": {
+"indexed": true,
+"published": true
+},
+"hasLineage": false
+},
+{
+"name": "_SYS_REPO",
+"remoteObjectType": "SCHEMA",
+"qualifiedName": "/_SYS_REPO",
+"nativeQualifiedName": "_SYS_REPO",
+"parentQualifiedName": "/",
+"isContainer": true,
+"publicationStatus": {
+"indexed": false,
+"published": false
+},
+"hasLineage": false
+},
+{
+"name": "_SYS_RT",
+"remoteObjectType": "SCHEMA",
+"qualifiedName": "/_SYS_RT",
+"nativeQualifiedName": "_SYS_RT",
+"parentQualifiedName": "/",
+"isContainer": true,
+"publicationStatus": {
+"indexed": true,
+"published": true
+},
+"hasLineage": false
+},
+{
+"name": "_SYS_SQL_ANALYZER",
+"remoteObjectType": "SCHEMA",
+"qualifiedName": "/_SYS_SQL_ANALYZER",
+"nativeQualifiedName": "_SYS_SQL_ANALYZER",
+"parentQualifiedName": "/",
+"isContainer": true,
+"publicationStatus": {
+"indexed": true,
+"published": true
+},
+"hasLineage": false
+},
+{
+"name": "_SYS_TASK",
+"remoteObjectType": "SCHEMA",
+"qualifiedName": "/_SYS_TASK",
+"nativeQualifiedName": "_SYS_TASK",
+"parentQualifiedName": "/",
+"isContainer": true,
+"publicationStatus": {
+"indexed": true,
+"published": true
+},
+"hasLineage": false
+}
+],
+"previous": null,
+"next": null
+}
