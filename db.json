@@ -1,0 +1,55 @@
+{
+  "count": 2,
+  "connections": [
+    {
+      "id": "folder1",
+      "type": "HANA_DB",
+      "description": "",
+      "isIndexable": true,
+      "isLineageCapable": true,
+      "isProfileable": true,
+      "isRules": true,
+      "isPartitionable": false,
+      "isPrepareable": true,
+      "tags": [],
+      "tagsFromType": [
+        "db"
+      ],
+      "isOrphan": false,
+      "lastModified": "2019-08-08T16:26:06.92Z",
+      "publications": {
+        "total": 7,
+        "outdated": 0
+      },
+      "factsheets": {
+        "total": 0,
+        "outdated": 0
+      }
+    },
+    {
+      "id": "hana_internal",
+      "type": "HANA_DB",
+      "description": "",
+      "isIndexable": true,
+      "isLineageCapable": true,
+      "isProfileable": true,
+      "isRules": true,
+      "isPartitionable": false,
+      "isPrepareable": true,
+      "tags": [],
+      "tagsFromType": [
+        "db"
+      ],
+      "isOrphan": false,
+      "lastModified": null,
+      "publications": {
+        "total": 0,
+        "outdated": 0
+      },
+      "factsheets": {
+        "total": 0,
+        "outdated": 0
+      }
+    }
+  ]
+}
